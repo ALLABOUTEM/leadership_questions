@@ -18,59 +18,59 @@
 #### How do you deal with unhappy people on your team?
 #### Give an example of a conflict between teammates and how you resolved it.
 #### What do you do when a team completely disagrees with the founder/VP on the direction of a product?
-How do you bootstrap technical leadership in an organization that has no public titles?
-How do you handle a great engineer with communication problems?
-How do you handle someone who really wants a promotion but isn't ready?
-What was some difficult feedback you had to give recently? and why was it hard to deliver?
-What was some difficult feedback that you received? and why was it hard to receive
-How do you do coaching and career development?
-Tell me about a few people on your team and the career development plans you created with them.
-How do you coach engineers on your team that are smarter and better engineers than you?
-Have you ever promoted anyone?
-How do you deal with difficult team members?
-If you knew a manager was 100% wrong about something, how would you handle it?
-How do you think that you are an effective leader?
-What is the difference between leadership and management?
-How would your current (or last) team describe you?
-What would your first 30, 60 or 90 days look like in this role?
-What is your management style?
-What is the role of an engineering manager?
-What was your purpose in moving into management?
-Have you managed other managers?
-What do you expect from your manager?
-How hands-on are you with the team? Are you involved in coding, design reviews, architecture, etc.?
-What is the largest team you have ever managed?
-How big a team are you comfortable to manage?
-How will you manage a global team?
-What are the differences and tradeoffs between managing a small team and a large team?
-How is managing other managers different from managing individual contributors?
-What do you find are the most difficult decisions to make?
-How do you motivate your team?
-How do you help people manage their careers?
-How do you manage people that are not team players in your team?
-How do you build culture?
-What do you look for when hiring?
-Tell me about the diversity of your team.
-What do you do to ensure you have diversity?
-How do you recruit and hire in the SF Bay Area (because it is so hard and competitive)?
-How much time do you spend hiring and sourcing candidates?
-What do you do?
-How do you work with your tech recruiters?
-How have you optimized the recruiting process in the past?
-Have they thought about the recruiting funnel and how you can optimize different parts of it?
-How do you deal with conflict?
-Engineering conflict - Resourcing
-Tell me a time you had a conflict with another manager and how you resolved it / how do you overcome difference of opinion?
-What if there is a conflict in priority of items?
-Conflict with a partner team - Engineering design 
-Tell me about a time there was a conflict between members of your team and how you resolved it.
-Tell me about a time when you successfully removed an obstacle that interfered with your ability to complete a task effectively.
-Conflict with a partner team - UX design
-Give me an example of a time you dealt with conflict at work?
-What were some excellent collaborations you've had?
-Can you tell me about four people whose careers you have fundamentally improved?
-Describe a few of your peers at your company and what type of relationship you have with each of them.
-What did you do on your very best day at work?
+#### How do you bootstrap technical leadership in an organization that has no public titles?
+#### How do you handle a great engineer with communication problems?
+#### How do you handle someone who really wants a promotion but isn't ready?
+#### What was some difficult feedback you had to give recently? and why was it hard to deliver?
+#### What was some difficult feedback that you received? and why was it hard to receive
+#### How do you do coaching and career development?
+#### Tell me about a few people on your team and the career development plans you created with them.
+#### How do you coach engineers on your team that are smarter and better engineers than you?
+#### Have you ever promoted anyone? How did you go about making a case?
+#### How do you deal with difficult team members?
+#### If you knew a manager was 100% wrong about something, how would you handle it?
+#### How do you think that you are an effective leader?
+#### What is the difference between leadership and management?
+#### How would your current (or last) team describe you?
+#### What would your first 30, 60 or 90 days look like in this role?
+#### What is your management style?
+#### What is the role of an engineering manager?
+#### What was your purpose in moving into management?
+#### Have you managed other managers?
+#### What do you expect from your manager?
+#### How hands-on are you with the team? Are you involved in coding, design reviews, architecture, etc.?
+#### What is the largest team you have ever managed?
+#### How big a team are you comfortable to manage?
+#### How will you manage a global team?
+#### What are the differences and tradeoffs between managing a small team and a large team?
+#### How is managing other managers different from managing individual contributors?
+#### What do you find are the most difficult decisions to make?
+#### How do you motivate your team?
+#### How do you help people manage their careers?
+#### How do you manage people that are not team players in your team?
+#### How do you build culture?
+#### What do you look for when hiring?
+#### Tell me about the diversity of your team.
+#### What do you do to ensure you have diversity?
+#### How do you recruit and hire in the SF Bay Area (because it is so hard and competitive)?
+#### How much time do you spend hiring and sourcing candidates?
+#### What do you do?
+#### How do you work with your tech recruiters?
+#### How have you optimized the recruiting process in the past?
+#### Have they thought about the recruiting funnel and how you can optimize different parts of it?
+#### How do you deal with conflict?
+#### Engineering conflict - Resourcing
+#### Tell me a time you had a conflict with another manager and how you resolved it / how do you overcome difference of opinion?
+#### What if there is a conflict in priority of items?
+#### Conflict with a partner team - Engineering design 
+#### Tell me about a time there was a conflict between members of your team and how you resolved it.
+#### Tell me about a time when you successfully removed an obstacle that interfered with your ability to complete a task effectively.
+#### Conflict with a partner team - UX design
+#### Give me an example of a time you dealt with conflict at work?
+#### What were some excellent collaborations you've had?
+#### Can you tell me about four people whose careers you have fundamentally improved?
+#### Describe a few of your peers at your company and what type of relationship you have with each of them.
+#### What did you do on your very best day at work?
 #### What does office politics mean to you, and do you see politics as your job?
 #### What did you learn from it and what would you do differently today?
 #### Why are you interested in working at Facebook, and what do you hope to work on?

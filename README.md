@@ -1,5 +1,5 @@
 
-### Leadership
+### LEADERSHIP
 * What first principles/culture do you instill in your teams?
 * How do you go about instilling those principals and influencing behavior?
 * What would you view as your personal strengths?
@@ -60,6 +60,7 @@
 * How do you work with your tech recruiters?
 * How have you optimized the recruiting process in the past?
 * Have they thought about the recruiting funnel and how you can optimize different parts of it?
+### SITUATIONAL/BEHAVIORAL INTERVIEW
 * How do you deal with conflict?
 * Engineering conflict - Resourcing
 * Tell me a time you had a conflict with another manager and how you resolved it / how do you overcome difference of opinion?

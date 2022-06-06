@@ -1,4 +1,5 @@
 
+### Leadership
 * What first principles/culture do you instill in your teams?
 * How do you go about instilling those principals and influencing behavior?
 * What would you view as your personal strengths?
